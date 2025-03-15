@@ -1,0 +1,36 @@
+.blog-post {
+    padding: 1.5rem;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.loading,
+.not-found {
+    text-align: center;
+    padding: 2rem;
+    color: #6a737d;
+}
+
+/* Code highlighting */
+.markdown-body pre {
+    background-color: #f6f8fa;
+    border-radius: 3px;
+    padding: 16px;
+    overflow: auto;
+}
+
+.markdown-body code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+/* Math typesetting with KaTeX */
+.katex-display {
+    margin: 1em 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+.katex {
+    font-size: 1.1em;
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "title": "Getting Started with React and TypeScript",
+        "date": "2023-07-15",
+        "slug": "getting-started-with-react-typescript",
+        "summary": "An introduction to using TypeScript with React for type-safe frontend development.",
+        "tags": [
+            "React",
+            "TypeScript",
+            "Web Development"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Understanding Linear Algebra for Machine Learning",
+        "date": "2023-07-10",
+        "slug": "linear-algebra-machine-learning",
+        "summary": "A primer on the essential linear algebra concepts needed for machine learning.",
+        "tags": [
+            "Mathematics",
+            "Machine Learning",
+            "Linear Algebra"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Deploying Static Sites with GitHub Pages",
+        "date": "2023-07-05",
+        "slug": "static-site-github-pages",
+        "summary": "How to quickly deploy and host your static website using GitHub Pages for free.",
+        "tags": [
+            "GitHub",
+            "Web Development",
+            "Deployment"
+        ]
+    }
+]
